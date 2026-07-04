@@ -256,8 +256,6 @@ This project demonstrates how SQL and Power BI can transform operational data in
 
 # 📚 Additional Documentation
 
-# 📚 Additional Documentation
-
 Detailed technical implementation is available in the following documents:
 
 - 📄 [SQL Analysis](docs/SQL_Queries.md)
